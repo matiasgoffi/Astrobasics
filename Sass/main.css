@@ -17,6 +17,38 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0f0812",endColorstr="#6c2d8c",GradientType=1);
 }
 
+.contenedortituloagua {
+  background: #184980;
+  background: -webkit-gradient(linear, left top, right top, color-stop(12%, #184980), color-stop(50%, #253fa6), color-stop(76%, #1263bd), color-stop(93%, #5c7ad1));
+  background: linear-gradient(90deg, #184980 12%, #253fa6 50%, #1263bd 76%, #5c7ad1 93%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#184980",endColorstr="#5c7ad1",GradientType=1);
+}
+
+.contenedortituloaire {
+  background: #bfa9bf;
+  background: -webkit-gradient(linear, left top, right top, color-stop(12%, #bfa9bf), color-stop(30%, #a35b9e), color-stop(70%, #884891), color-stop(93%, #ba7233));
+  background: linear-gradient(90deg, #bfa9bf 12%, #a35b9e 30%, #884891 70%, #ba7233 93%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#bfa9bf",endColorstr="#ba7233",GradientType=1);
+}
+
+.contenedortitulofuego {
+  background: #d62017;
+  background: -webkit-gradient(linear, left top, right top, color-stop(12%, #d62017), color-stop(25%, #cb7211), color-stop(70%, #e23113), color-stop(93%, #ffef00));
+  background: linear-gradient(90deg, #d62017 12%, #cb7211 25%, #e23113 70%, #ffef00 93%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d62017",endColorstr="#ffef00",GradientType=1);
+}
+
+.contenedortitulotierra {
+  background: #6b481c;
+  background: -webkit-gradient(linear, left top, right top, color-stop(12%, #6b481c), color-stop(25%, #603910), color-stop(70%, #5e2e03), color-stop(93%, #3d0c00));
+  background: linear-gradient(90deg, #6b481c 12%, #603910 25%, #5e2e03 70%, #3d0c00 93%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#6b481c",endColorstr="#3d0c00",GradientType=1);
+}
+
+.tituloheader {
+  color: #c3c3c3;
+}
+
 .tituloinicio {
   display: -webkit-box;
   display: -ms-flexbox;

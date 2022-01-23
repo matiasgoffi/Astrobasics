@@ -6,6 +6,40 @@
     background: linear-gradient(90deg, rgba(15,8,18,1) 12%, rgba(32,3,42,1) 50%, rgba(88,28,117,1) 76%, rgba(108,45,140,1) 93%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0f0812",endColorstr="#6c2d8c",GradientType=1);
 }
+.contenedortituloagua{
+    background: rgb(24,73,128);
+background: -moz-linear-gradient(90deg, rgba(24,73,128,1) 12%, rgba(37,63,166,1) 50%, rgba(18,99,189,1) 76%, rgba(92,122,209,1) 93%);
+background: -webkit-linear-gradient(90deg, rgba(24,73,128,1) 12%, rgba(37,63,166,1) 50%, rgba(18,99,189,1) 76%, rgba(92,122,209,1) 93%);
+background: linear-gradient(90deg, rgba(24,73,128,1) 12%, rgba(37,63,166,1) 50%, rgba(18,99,189,1) 76%, rgba(92,122,209,1) 93%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#184980",endColorstr="#5c7ad1",GradientType=1);
+
+}
+.contenedortituloaire{
+    background: rgb(191,169,191);
+    background: -moz-linear-gradient(90deg, rgba(191,169,191,1) 12%, rgba(163,91,158,1) 30%, rgba(136,72,145,1) 70%, rgba(186,114,51,1) 93%);
+    background: -webkit-linear-gradient(90deg, rgba(191,169,191,1) 12%, rgba(163,91,158,1) 30%, rgba(136,72,145,1) 70%, rgba(186,114,51,1) 93%);
+    background: linear-gradient(90deg, rgba(191,169,191,1) 12%, rgba(163,91,158,1) 30%, rgba(136,72,145,1) 70%, rgba(186,114,51,1) 93%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#bfa9bf",endColorstr="#ba7233",GradientType=1);
+}
+.contenedortitulofuego{
+    background: rgb(214,32,23);
+background: -moz-linear-gradient(90deg, rgba(214,32,23,1) 12%, rgba(203,114,17,1) 25%, rgba(226,49,19,1) 70%, rgba(255,239,0,1) 93%);
+background: -webkit-linear-gradient(90deg, rgba(214,32,23,1) 12%, rgba(203,114,17,1) 25%, rgba(226,49,19,1) 70%, rgba(255,239,0,1) 93%);
+background: linear-gradient(90deg, rgba(214,32,23,1) 12%, rgba(203,114,17,1) 25%, rgba(226,49,19,1) 70%, rgba(255,239,0,1) 93%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d62017",endColorstr="#ffef00",GradientType=1);
+}
+.contenedortitulotierra{
+    background: rgb(107,72,28);
+background: -moz-linear-gradient(90deg, rgba(107,72,28,1) 12%, rgba(96,57,16,1) 25%, rgba(94,46,3,1) 70%, rgba(61,12,0,1) 93%);
+background: -webkit-linear-gradient(90deg, rgba(107,72,28,1) 12%, rgba(96,57,16,1) 25%, rgba(94,46,3,1) 70%, rgba(61,12,0,1) 93%);
+background: linear-gradient(90deg, rgba(107,72,28,1) 12%, rgba(96,57,16,1) 25%, rgba(94,46,3,1) 70%, rgba(61,12,0,1) 93%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#6b481c",endColorstr="#3d0c00",GradientType=1);
+
+}
+
+.tituloheader{
+    color: rgb(195, 195, 195);
+}
 
 .tituloinicio{
     display: flex;
